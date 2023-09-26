@@ -1,3 +1,3 @@
 # Editor 
-Capcut: https://capcut.com/
-Davinci Resolve: https://www.blackmagicdesign.com/products/davinciresolve
+https://capcut.com/
+https://www.blackmagicdesign.com/products/davinciresolve
